@@ -32,7 +32,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SStandby&show_icons=true&bg_color=44475a&text_color=bd93f9&title_color=DEFBFF&icon_color=DEFBFF&border_radius=20&border_color=6272a4&locale=es" width="800px">
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=SStandby&label=Views&color=bd93f9&style=flat"/></p>
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=SStandby&label=Views&color=bd93f9&style=flat"/>
+   <a href="https://wakatime.com/@bf0794b2-f6d3-4b5a-8d32-fa2762427474">
+   <img src="https://wakatime.com/badge/user/bf0794b2-f6d3-4b5a-8d32-fa2762427474.svg" alt="Total time coded since Mar 31 2023" /></a></p>
 </details>
 
 <h2></h2><br>
