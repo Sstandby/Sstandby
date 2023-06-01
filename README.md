@@ -6,7 +6,7 @@
       <b>
         hey ~
       <br>
-        Pixel artist and backend developer in search of penguins  🍎
+        Pixel artist and full stack developer in search of penguins  🍎
       </b>
       </samp><br>
    </p>
