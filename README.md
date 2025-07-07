@@ -15,7 +15,7 @@
          ~
          <a href="https://lichess.org/@/u-uwu" target="_blank">lichess</a> &#8226;
          <a href="https://app.hackthebox.com/profile/96692" target="_blank">hackthebox</a> &#8226;
-         <a href="https://sstandby.com" target="_blank">standby</a>
+         <a href="https://standby.com" target="_blank">standby</a>
          ~
       </samp>
    </p>
