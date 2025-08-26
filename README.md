@@ -35,7 +35,6 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=SStandby&label=Views&color=bd93f9&style=flat"/>
    <a href="https://wakatime.com/@bf0794b2-f6d3-4b5a-8d32-fa2762427474">
-   <img src="https://wakatime.com/badge/user/bf0794b2-f6d3-4b5a-8d32-fa2762427474.svg" alt="Total time coded since Mar 31 2023" /></a></p>
 </details>
 
 <h2></h2><br>
